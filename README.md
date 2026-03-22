@@ -8,7 +8,7 @@ Sou apaixonado por tecnologia e estou sempre em busca de aprender coisas novas e
 
 <p align="left">
 </a> 
-    <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
+    <a href="https://github.com/dev-givaldojr?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
