@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👨‍💻 Givaldo Junior
+# Givaldo Junior
 
 **`FullStack Developer`**
 
@@ -10,7 +10,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I'm a Full Stack Developer from Brazil passionate about building modern, scalable, and high-performance applications.
 
@@ -20,21 +20,21 @@ I enjoy turning ideas into real-world products and exploring new technologies to
 
 ---
 
-# 🛠️ Tech Stack
+# Tech Stack
 
-## 🎨 Frontend
+## Frontend
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
 </p>
 
-## ⚙️ Backend
+## Backend
 
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,fastapi,django,java,python,go,php" />
 </p>
 
-## 🗄️ Database & Tools
+## Database & Tools
 
 <p>
   <img src="https://skillicons.dev/icons?i=postgres,prisma,redis,docker,rabbitmq,git,github" />
@@ -42,7 +42,7 @@ I enjoy turning ideas into real-world products and exploring new technologies to
 
 ---
 
-# 📈 GitHub Overview
+# GitHub Overview
 
 <div align="center">
 
@@ -52,7 +52,7 @@ I enjoy turning ideas into real-world products and exploring new technologies to
 
 
 
-# 🌎 Connect With Me
+# Connect With Me
 
 <div align="center">
 
@@ -67,23 +67,5 @@ I enjoy turning ideas into real-world products and exploring new technologies to
 <a href="mailto:givaldojunior154@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
-</div>
-
----
-
-# 💡 Currently Learning
-
-* Software Architecture
-* Microservices
-* Cloud Computing
-* Scalable Backend Systems
-* DevOps & Infrastructure
-
----
-
-<div align="center">
-
-### 🚀 "Building scalable and modern applications with clean code."
 
 </div>
